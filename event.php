@@ -44,9 +44,9 @@ if (isset($_SESSION['type'])) {
 
     <!-- =======================================================
   * Template Name: Restaurantly - v3.7.0
-  * Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
+  * Template URL: https://sahu.com/restaurantly-restaurant-template/
+  * Author: sahu.com
+  * License: https://sahu.com/license/
   ======================================================== -->
 </head>
 <style>
